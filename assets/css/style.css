@@ -1,0 +1,47 @@
+.footer {
+    text-align: left;
+    border: solid 2px white;
+    border-radius: 15px;
+    
+   
+    color: orange;
+    position: fixed;
+    border-top: 2px solid grey;
+    border-left: 2px solid grey;
+    border-bottom: 2px solid grey;
+    bottom: 380px;
+    right: 0;
+    display: inline;
+
+ }
+
+ .color_f_h{
+     color: black;
+     display: inline;
+ }
+
+.body{
+    
+    
+    border-top: 2px solid lightblue;
+    position: centred;
+    text-align: center;
+}   
+
+h1{
+    display: inline;
+    color: orange;
+}
+
+h2{
+    display: inline;
+    color: black;
+}
+
+h3{
+    display: inline;
+    color: black;
+}
+
+
+
