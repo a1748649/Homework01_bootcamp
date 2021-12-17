@@ -1,16 +1,16 @@
-# 📖 Implement edits on Horiseon
+# 📖 Implement my tuition website
 
-Worked solo in following semantic HTML, descriptive commenting rules, and accessibility criteria to make source code more readbable.
+Using html and css I have been continually working on and editing my website. 
 
-## Acceptance Criteria
+## The website serves as a...
 
-* Its done when index.html is more sematically designed
+* landing page, 
 
-* Its done when descriptive comments are put in
+* to be devloped further with videos and pictures
 
-* It's done when theres a title
+* to be devloped with back-end integration
 
 
 ## 📝 Notes
-some areas were slightly unclear for me but I worked my way through
+
 
